@@ -1,0 +1,34 @@
+   PBI          State              Impl. State                    TRQ         TestsTRQ          USP              TestsUSP              
+   ---          -----              -----------                    ---         --------          ---             --------              
+ 44620          Not Covered        Not Implemented                9138       DONE                   12846           DONE                      
+ 44620          Not Covered        Not Implemented                9138       DONE                   12851           347199B5-7B12-4067-B357-8C60E68A1699                      
+ 44620          Not Covered        Not Implemented                9138       DONE                   10157           721, 1080, 1149       
+ 44620          Not Covered        Not Implemented                9138       DONE               10802           1317, 1318            
+ 44620          Not Covered        Not Implemented                9138       DONE                   10004           1382, 1383, 1149, 2380
+ 44620          Not Covered        Not Implemented                9285       DONE                   12846           DONE                      
+ 44620          Not Covered        Not Implemented                9285       DONE                   12852           92E25483-B52B-40F6-A752-1D393DA65997                      
+ 44620          Not Covered        Not Implemented                9852                          -               -                     
+ 44627          Passed             Partially Implemented          9131        2380              12846           DONE                       
+ 44627          Passed             Partially Implemented          9131        2380              12863           2380                  
+ 44627          Passed             Partially Implemented          9131        2380              12852           333ECB75-B08E-415B-B828-48D83BAB04C3                      
+ 44627          Passed             Partially Implemented          9133        2380              10004           1382, 1383, 1149, 2380
+ 44627          Passed             Partially Implemented          9133        2380              12863           2380                  
+ 44642          Passed             Partially Implemented          9133        2380              10004           1382, 1383, 1149, 2380
+ 44642          Passed             Partially Implemented          9133        2380              12863           2380                  
+ 44644          Not Covered        Not Implemented                9138        DONE                  12846            DONE                     
+ 44644          Not Covered        Not Implemented                9138        DONE                  12851           347199B5-7B12-4067-B357-8C60E68A1699                      
+ 44644          Not Covered        Not Implemented                9138        DONE                  10157           721, 1080, 1149       
+ 44644          Not Covered        Not Implemented                9138        DONE                  10802           1317, 1318            
+ 44644          Not Covered        Not Implemented                9138        DONE                  10004           1382, 1383, 1149, 2380
+ 44644          Not Covered        Not Implemented                9285       DONE                   12846           DONE                      
+ 44644          Not Covered        Not Implemented                9285       DONE                   12852           92E25483-B52B-40F6-A752-1D393DA65997                      
+ 44647          Passed             Partially Implemented          9131        2380              12846           DONE                      
+ 44647          Passed             Partially Implemented          9131        2380              12863           2380                  
+ 44647          Passed             Partially Implemented          9131        2380              12852           92E25483-B52B-40F6-A752-1D393DA65997                       
+ 44647          Passed             Partially Implemented          9133        2380              10004           1382, 1383, 1149, 2380
+ 44647          Passed             Partially Implemented          9133        2380              12863           2380                  
+ 44648          Passed             Partially Implemented          9131        2380              12846           DONE                      
+ 44648          Passed             Partially Implemented          9131        2380              12863           2380                  
+ 44648          Passed             Partially Implemented          9131        2380              12852           92E25483-B52B-40F6-A752-1D393DA65997                     
+ 44648          Passed             Partially Implemented          9133        2380              10004           1382, 1383, 1149, 2380
+ 44648          Passed             Partially Implemented          9133        2380              12863           2380          

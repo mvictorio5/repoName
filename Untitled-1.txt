@@ -1,0 +1,17 @@
+
+Bloque 1:
+
+Dennis Doomen Fluent Assertions 5.0.0
+Moq 4.8.1
+Outercurve Foundation xunit.runner.visualstudio 2.3.1
+Roche TestDocGen Converter 1.0.8.14
+Roche TestDocGen Importer 4.0.0.24534
+xunit.analyzers 0.8.0
+xUnit.net 2.3.1
+Roche.TestDocGen.Converter.Attributes 1.0.1.35
+
+Bloque 2: 
+NUnit 2.6.4
+NUnit Test Adapter 2.0.0
+Roche.SpecFlow.AttributeGenerator 1.0.8.14
+SpecFlow 2.1.0
